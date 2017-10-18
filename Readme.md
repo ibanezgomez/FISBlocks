@@ -89,7 +89,7 @@ Now we only have to load the program into the Arduino and connect the device to 
 If this information has been useful to you or you have found it interesting you can contribute to the project to help in the development of improvements or new functionalities through making an economic donation through PayPal to the account samueliban@gmail.com.
 
 
-## Futuras mejoras:
+## Future improvements:
 
 * Possibility to change the menus using the cruise control handle, clutch or brake.
 * Improve the usability of the instrument panel display.
@@ -98,7 +98,7 @@ If this information has been useful to you or you have found it interesting you 
 * Creation of encapsulated PCB prototype.
 
 
-## Agradecimientos & Contacto:
+## Acknowledgments & Contact:
 
 This project would not have been possible without the help of:
 
