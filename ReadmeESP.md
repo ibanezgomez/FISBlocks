@@ -3,7 +3,7 @@
 [[ENG]](./Readme.md)
 [ESP]
 
-![Texto alternativo](media/main2.jpg "FIS-Blocks").
+![Texto alternativo](media/main2.jpg "FIS-Blocks")
 
 
 ## Resumen:
@@ -32,6 +32,22 @@ Este proyecto tiene principalmente 2 objetivos:
 * Extraer información de las unidades de mando del vehículo utilizando el protocolo KWP1281 y el Measurement Blocks.
 
 * Implementar protocolo 3LB para mostrar información en el cuadro de instrumentos.
+
+### Actualización 22/12/2017!!!
+
+Si estás interesado en el proyecto y quieres utilizar la versión Premium de FISBlocks se ha desarrollado FISBlocks+ que incorpora entre otros:
+
+* Varios modos de visualización: Pantalla superior (UPPER FIS) o completa (FULL FIS).
+* Cambio de parámetros y visualización con la maneta del control crucero.
+* Mayor tasa de refresco.
+* Mayor cantidad de parámetros por pantalla.
+* Mejoras de rendimiento y usabilidad.
+
+#### Haz click en la imagen para ver el video demostrativo:
+
+[![IMAGE ALT TEXT HERE](/media/fisblocksplus.jpg)](https://www.youtube.com/watch?v=hIhcAbNPSvY)
+
+Haz una donación a la dirección samueliban@gmail.com a través de PayPal indicando tu dirección de correo electrónico para recibir el código completo y contribuye al desarrollo de nuevas funcionalidades.
 
 
 ## Material necesario para fabricar el FISBlocks:

@@ -1,7 +1,7 @@
 # Welcome to FISBlocks!
 
 [ENG]
-[[ESP]](./ReadmeSpanish.md)
+[[ESP]](./ReadmeESP.md)
 
 ![Texto alternativo](media/main2.jpg "FIS-Blocks").
 
@@ -33,10 +33,26 @@ This project has two main objectives:
 
 * Implement 3LB protocol to display information in the instrument cluster.
 
+### Update 22/12/2017!!!
+
+If you are interested in the project and want to use the Premium version of FISBlocks, FISBlocks+ has been developed that includes among others:
+
+* Various display modes: Top screen (UPPER FIS) or full screen (FULL FIS).
+* Change of parameters and visualization with the handle of the cruise control.
+* Higher refresh rate.
+* Greater number of parameters per screen.
+* Performance and usability improvements.
+
+#### Click on the image to see the demonstration video:
+
+[![IMAGE ALT TEXT HERE](/media/fisblocksplus.jpg)](https://www.youtube.com/watch?v=hIhcAbNPSvY)
+
+Make a donation to the address samueliban@gmail.com through PayPal indicating your email address to receive the complete code and contribute to the development of new features.
+
 
 ## Material needed to build the FISBlocks:
 
-![Texto alternativo](media/components.jpg "Components").
+![Texto alternativo](media/components.jpg "Components")
 
 * Arduino UNO or similar (ATmega328)
 * USB ODB2 Diagnostic Cable 409.1
