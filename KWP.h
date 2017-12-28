@@ -18,6 +18,7 @@
 struct KWP_MODULE{
   String name;
   uint8_t addr;
+  int baudrate;
   int *groups;
   int ngroups;
 };
