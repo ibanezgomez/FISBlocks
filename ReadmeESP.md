@@ -49,6 +49,15 @@ Si estás interesado en el proyecto y quieres utilizar la versión Premium de FI
 
 Haz una donación a la dirección samueliban@gmail.com a través de PayPal indicando tu dirección de correo electrónico para recibir el código completo y contribuye al desarrollo de nuevas funcionalidades.
 
+### Actualización 16/01/2018!!!
+
+Gráficos!
+
+#### Haz click en la imagen para ver el video demostrativo:
+
+[![IMAGE ALT TEXT HERE](/media/fisblockspluscustom.jpg)](https://www.youtube.com/watch?v=ZmHX70X5kU)
+
+Si quieres la versión personalizada de FISBlocks+ que incluye logos al inicio y tener tu propio logo personalizado contribuye al proyecto haciendo una donacion de 25€ a la dirección samueliban@gmail.com a través de PayPal indicando tu dirección de correo electrónico y mándame tu logo en blanco y negro en tamaño 88x64 píxeles, recibirás el código con tu logo personalizado.
 
 ## Material necesario para fabricar el FISBlocks:
 
