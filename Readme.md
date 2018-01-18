@@ -57,7 +57,7 @@ Graphics happened!
 
 [![IMAGE ALT TEXT HERE](/media/fisblockspluscustom.jpg)](https://www.youtube.com/watch?v=ZmHX70X5kUM)
 
-If you want the custom version of FISBlocks+ which includes logos at startup and have your own custom logo contribute to the project by making a donation of 25€ to the address samueliban@gmail.com indicating your email address and send me your logo in black and white in size 88x64 pixels, you will receive the code with your custom logo.
+If you want the custom version of FISBlocks+ which includes logos at startup and have your own custom logo contribute to the project by making a donation of 25€ to the address samueliban@gmail.com indicating your email address and send me your logo in black and white in size 64x88 pixels, you will receive the code with your custom logo.
 
 ## Material needed to build the FISBlocks:
 
