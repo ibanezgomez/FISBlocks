@@ -8,7 +8,7 @@
 
 ## Sumary:
 
-The FISBlocks is an Arduino based device that allows us to consult in real time mechanical parameters of the vehicle to diagnose its state and predict faults. It implements part of the private protocol KWP1281 used in all vehicles of the group VAG (Audi, Seat, Volkswagen ...) since 1998 to carry out the diagnosis and obtain the information. In addition, this device also implements part of the private 3LB protocol that allows us to control the content that is displayed by the secondary screen of 2 lines x 8 digits of the instruments that incorporate FIS-DIS technology.
+The FISBlocks is an Arduino based device that allows us to consult in real time mechanical parameters of the vehicle to diagnose its state and predict faults. It implements part of the private protocol KWP1281 used in all vehicles of the group VAG (Audi, Seat, Volkswagen ...) since 1998 to carry out the diagnosis and obtain the information. In addition, this device also implements part of the private 3LB protocol that allows us to control the content that is displayed by the screen of the instruments that incorporate FIS-DIS technology.
 
 Some of the interesting facts we can get:
 * Liters of fuel
@@ -32,6 +32,30 @@ This project has two main objectives:
 * Extract information from the vehicle control units using the KWP1281 protocol and the Measurement Blocks.
 
 * Implement 3LB protocol to display information in the instrument cluster.
+
+### Update 10/08/2018!!!
+
+![Texto alternativo](media/pcbFISBlocksFull.jpg "FIS-Blocks").
+![Texto alternativo](media/pcbFISBlocksLow.jpg "FIS-Blocks").
+
+FISBlocks PCB finished! As the assembly of the circuit using a KKL cable is not very practical I have developed this PCB for development.
+Its function is exactly the same but the result is more integrated, there is no risk of making mistakes buying the cable and it is easier to integrate it in the car.
+
+FISBlocks PCB is available in limited units, the prices are as follows:
+
+* 1 unit -> 50€
+* 5 units -> 200€
+
+![Texto alternativo](media/pcbFISBlocksUnits.PNG "FIS-Blocks").
+
+* Shipping costs not included, shipments are made to the whole world.
+* Includes the source code with the most current version of the code and a custom logo.
+
+![Texto alternativo](media/pcbFISBlocksSocial.png "FIS-Blocks").
+
+If you are interested, please contact me by email: samueliban@gmail.com
+
+
 
 ### Update 22/12/2017!!!
 

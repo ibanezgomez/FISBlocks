@@ -8,7 +8,7 @@
 
 ## Resumen:
 
-El FISBlocks es un dispositivo basado en Arduino que nos permite consultar en tiempo real parámetros mecánicos del vehículo para diagnosticar su estado y predecir averías. Implementa parte del protocolo privado KWP1281 usado en todos los vehículos del grupo VAG (Audi, Seat, Volkswagen...) desde el año 1998 para realizar la diagnosis y obtener la información. Además este dispositivo también implementa parte del protocolo privado 3LB que nos permite controlar el contenido que se muestra por la pantalla secundaria de 2 lineas x 8 dígitos de los cuadros de instrumentos que incorporan tecnología FIS-DIS.
+El FISBlocks es un dispositivo basado en Arduino que nos permite consultar en tiempo real parámetros mecánicos del vehículo para diagnosticar su estado y predecir averías. Implementa parte del protocolo privado KWP1281 usado en todos los vehículos del grupo VAG (Audi, Seat, Volkswagen...) desde el año 1998 para realizar la diagnosis y obtener la información. Además este dispositivo también implementa parte del protocolo privado 3LB que nos permite controlar el contenido que se muestra por la pantalla de los cuadros de instrumentos que incorporan tecnología FIS-DIS.
 
 Algunos de los datos interesantes que podemos obtener:
 * Litros de combustible
@@ -32,6 +32,28 @@ Este proyecto tiene principalmente 2 objetivos:
 * Extraer información de las unidades de mando del vehículo utilizando el protocolo KWP1281 y el Measurement Blocks.
 
 * Implementar protocolo 3LB para mostrar información en el cuadro de instrumentos.
+
+### Actualización 10/08/2018!!!
+
+![Texto alternativo](media/pcbFISBlocksFull.jpg "FIS-Blocks").
+![Texto alternativo](media/pcbFISBlocksLow.jpg "FIS-Blocks").
+
+FISBlocks PCB terminado! Como el montaje del circuito utilizando un cable KKL no es muy práctico he desarrollado este PCB para desarrollo.
+Su función es exactamente la misma pero el resultado es mas integrado, no hay riesgo de equivocarse comprando el cable y es mas facil de integrarlo en el coche.
+
+FISBlocks PCB está disponible en unidades limitadas, los precios son los siguientes:
+
+* 1 unidad -> 50€
+* 5 unidades -> 200€
+
+![Texto alternativo](media/pcbFISBlocksUnits.PNG "FIS-Blocks").
+
+* Gastos de envío no incluidos, se hacen envíos a todo el mundo.
+* Incluye el código fuente con la versión mas actual del código y un logo personalizado.
+
+![Texto alternativo](media/pcbFISBlocksSocial.png "FIS-Blocks").
+
+Si estas interesado ponte en contacto conmigo por correo electrónico: samueliban@gmail.com
 
 ### Actualización 22/12/2017!!!
 
