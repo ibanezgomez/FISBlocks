@@ -48,8 +48,8 @@ FISBlocks PCB está disponible en unidades limitadas, los precios son los siguie
 
 ![Texto alternativo](media/pcbFISBlocksUnits.PNG "FIS-Blocks").
 
-* Gastos de envío no incluidos, se hacen envíos a todo el mundo.
-* Incluye el código fuente con la versión mas actual del código y un logo personalizado.
+* Gastos de envío no incluidos, se hacen envíos a todo el mundo. El pago se realizará por PayPal.
+* Incluye el PCB probado con todos los componentes soldados, el código fuente con la versión mas actual del código y un logo personalizado.
 
 ![Texto alternativo](media/pcbFISBlocksSocial.png "FIS-Blocks").
 
